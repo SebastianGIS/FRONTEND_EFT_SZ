@@ -55,7 +55,7 @@ function Encabezado({ unidades, children }) {
                             width="40"
                             height="40"
                         />
-                        <span className="fw-bold">Videojuegos S8</span>
+                        <span className="fw-bold">Videojuegos - EFT</span>
                     </a>
 
                     {/* Botón hamburguesa: solo se ve con el menú colapsado.
